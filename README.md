@@ -1,4 +1,4 @@
-# Waitly — Product Launch Page Collection
+# Waitly  Product Launch Page Collection
 
 ![Waitly launch pages](screenshot.png)
 
