@@ -20,6 +20,6 @@ Three conversion-focused launch pages for a fictional product:
 
 **Stack:** HTML5, Tailwind CSS (CDN), vanilla JavaScript, Formspree.
 
-**Live:** <[add Vercel URL](https://launch-collection.vercel.app/)>
+**Live:** <https://launch-collection.vercel.app/>
 
 Portfolio project by [Faaiza Saand](https://github.com/FaaizaKarim).
